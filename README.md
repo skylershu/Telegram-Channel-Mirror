@@ -4,7 +4,7 @@
 
 ## 配置项
 
-主文件 [index.js](./index.js)，有如下需配置项
+主文件 [index.js](./index.js)，有如下配置项
 
 ```
 Channel URL: 频道链接
